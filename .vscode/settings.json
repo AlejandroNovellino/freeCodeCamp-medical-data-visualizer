@@ -2,7 +2,13 @@
   "workbench.colorTheme": "freeCodeCamp Dark Theme",
   "cSpell.words": [
     "alco",
+    "annot",
     "catplot",
-    "gluc"
+    "figsize",
+    "gluc",
+    "tril",
+    "triu",
+    "vmax",
+    "vmin"
   ]
 }
